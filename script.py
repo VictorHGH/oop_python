@@ -8,6 +8,9 @@ class Dog:
 
 
 dog1 = Dog()
+class Owner:
+
+dog1 = Dog("fido", "labrador")
 dog1.bark()
 
 dog2 = Dog()
